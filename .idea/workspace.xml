@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9554a100-4cba-42cb-8d49-e012f5be6a4e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/BuildingAnAdventCalendar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -78,7 +72,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="147" />
     <option name="y" value="36" />
     <option name="width" value="1239" />
@@ -139,12 +133,20 @@
       <updated>1545149720128</updated>
       <workItem from="1545149722648" duration="2373000" />
       <workItem from="1546273815990" duration="3308000" />
-      <workItem from="1548197111907" duration="435000" />
+      <workItem from="1548197111907" duration="977000" />
     </task>
+    <task id="LOCAL-00001" summary="calender code">
+      <created>1548197596466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1548197596466</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6116000" />
+    <option name="totallyTimeSpent" value="6658000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="147" y="36" width="1239" height="659" extended-state="0" />
@@ -173,6 +175,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="calender code" />
+    <option name="LAST_COMMIT_MESSAGE" value="calender code" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
